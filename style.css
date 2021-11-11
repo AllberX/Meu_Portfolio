@@ -35,7 +35,7 @@ font-style: italic;
     padding: 20px;
     margin: 0pt auto;
     background-color: rgb(0, 0, 0, 0.8);
-    background-image: url("fotos/contato.jpg");
+    background-image: url("contato.jpg");
     background-position: center; /* Center the image */
     background-size: cover;
     color: white;
@@ -222,7 +222,7 @@ flex: 0 0 auto;
 }
 
 body{
-background-image: url("fotos/super_fundo.jpg") !important;
+background-image: url("super_fundo.jpg") !important;
 }
 
 .container{
