@@ -26,6 +26,7 @@ text-align: center;
     text-align: center;
     font: medium;
 }  
+
 /*RODAPÉ DO MEU SITE*/
 
 .sessao_colorida{
@@ -132,7 +133,7 @@ transition: 0.2s;
 text-decoration: none;
 }
 
-#myFooter .facebook:hover {
+#myFooter .linkedin:hover {
 color: #0077e2;
 }
 
@@ -140,7 +141,7 @@ color: #0077e2;
 color: rgb(206, 12, 12);
 }
 
-#myFooter .twitter:hover {
+#myFooter .github:hover {
 color: #00aced;
 }
 
@@ -188,11 +189,10 @@ flex: 0 0 auto;
 }
 
 body{
-background-image: url("fotos/super_fundo.jpg") !important;
+background-image: url("super_fundo.jpg") !important;
 }
 
 .container{
 width: 90% !important;
 background-color: white !important;
 }
-
